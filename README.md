@@ -12,3 +12,9 @@
 ![pic1](./newsAppImg/1.png)
 ![pic1](./newsAppImg/2.png)
 ![pic1](./newsAppImg/3.png)
+  
+# Day3 a waterfalls flow imageApp for Android by DK
+第三个是一个简单的美图apk，借用了大佬的免费接口获取真实新闻，模仿了现在的app现状，加入了启动时候的广告页，done效果：广告页延时跳过，点击跳过，美图页自动获取美图，每页展示10条美图，下拉刷新10条新的美图。todo效果：下拉刷新的蒙版层，整体样式优化，下拉查不到数据的展示语，美图样式瀑布流（想用FlatList实现，结果就成了如图的样式，感觉不够完美，之后花时间完成瀑布流布局）
+![pic1](./imageAppImg/1.png)
+![pic1](./imageAppImg/2.png)
+![pic1](./imageAppImg/3.png)
