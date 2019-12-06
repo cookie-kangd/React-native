@@ -20,6 +20,8 @@
 ![pic1](./imageAppImg/3.png)
   
 # Day4 laughCloud for Android by DK  
+测试账号: ceshi123  
+测试密码： admin123  
 第四个是集合了广告页面，登录页面，注册页面，首页StackNavigation,TabNavigation,新闻板块，美图板块，段子视频板块，天气查询板块，我的信息板块，全部功能已经正常，登录注册采用了大佬提供的免费真实接口，可以自行注册账号进行登录，新闻板块实时更新，美图板块可以保存图片，段子视频板块是每日推荐时间也实时更新，可以说这个app包含了我目前所掌握的react-native所有知识，想入门学习react-native的小伙伴可以整体看看，觉得不错的话不要忘了给我点个star噢。  
 ![pic1](./laugnCloudImg/1.png)
 ![pic1](./laugnCloudImg/2.png)  
