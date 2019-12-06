@@ -14,9 +14,6 @@ import {
 var {width, height} =  Dimensions.get('window');
 
 export default class Home extends Component {
-  static navigationOptions = {
-    title: 'Home'
-  }
   constructor(props){
     super(props);
     this.state={

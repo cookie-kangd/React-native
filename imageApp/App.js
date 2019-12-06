@@ -64,8 +64,8 @@ export default class Home extends Component {
               numColumns={2}
               renderItem={({item,index}) =>
                 <View style={{flex: 1}}>
-                  {index%2!==0?(<Image source={{uri: item.img}} style={{width: width/2.2, height: 300,borderWidth: 1,borderRadius: 10}}></Image>):(null)}
-                  {index%2==0?(<Image source={{uri: item.img}} style={{width: width/2.2, height: 250,borderWidth: 1,borderRadius: 10}}></Image>):(null)}
+                  {index%2!==0?(<Image source={{uri: item.img}} style={{width: width/2.2, height: 250,borderWidth: 1,borderRadius: 10,marginBottom: 5}}></Image>):(null)}
+                  {index%2==0?(<Image source={{uri: item.img}} style={{width: width/2.2, height: 250,borderWidth: 1,borderRadius: 10,marginBottom: 5}}></Image>):(null)}
                 </View>
               }
               onEndReached={this.loadMore.bind(this)}
